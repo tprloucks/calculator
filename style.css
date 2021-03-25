@@ -34,12 +34,14 @@
     grid-gap: 15px;
 
 }
-.input-num{
+.output{
     background:  rgb(41,50,65);
     margin: 0 auto;
     margin-left: 25px;
     height: 100px;
     width: 300px;
+    color: red;
+    text-align-last: right;
 
 }
 
@@ -52,4 +54,5 @@
 .is-dark{
     background-color: rgb(61,90,128);
     color: aliceblue;
+
 }
